@@ -1,4 +1,4 @@
-#API Documentation Query System using Agentic RAG
+# API Documentation Query System using Agentic RAG #
 
 It is an intelligent Retrieval-Augmented Generation (RAG) system that simplifies the exploration of API documentation. It scrapes content from user-provided documentation links, processes and structures the data into datasets, and generates embeddings for efficient vector-based retrieval. With its seamless integration of Azure OpenAI and Cosmos DB, it provides precise, context-aware answers to user queries.
 
